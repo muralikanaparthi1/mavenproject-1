@@ -3,5 +3,5 @@
 
 someple for testing
 
-tirgger 
+tirggersamole 
 # Jenins automate build when commit happen in GIT
